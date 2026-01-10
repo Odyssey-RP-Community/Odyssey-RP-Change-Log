@@ -1,0 +1,27 @@
+0.0.6
+--------------------
+CODEM FISHING
+Took all files out and burned them. - Removed all old Fishing files
+Reinstalled Fishing script - Fresh install
+Broke it - Forgot to edit config
+Fixed it- Edited config silly me am i right? *Self fives*
+Restarted and found still broken - Found items still not being given or money not being taken
+Edited config - Added items.lua items from fishing to server
+Edited config - Changed targeting from drawtext to oxtarget
+Broke it - Nothing happens and found the items.lua has been well fucked
+Fixed - Unfucked items 
+Fixed props - Props now appear
+Fixed Fishing - Fixed oxtarget to actually appear the menu and work right
+Fixed Props - Got images to appear for props
+Added and moved NPC - Chnaged NPC location and added 2 new locations
+Broke Fishing - Broke it all
+Fixed Fishing - fixed fishing so everything is back like NPC now show at all 3 locations. Shop still broke
+Broke Fishing - Couldnt use rods or bait
+Altered Config - Altered XP rate per catch and changed Fish zones so no more bass in the ocean
+*^for above^* - Will continue to change over time to fit economy and keep econ in check. - yes u will be able to make some money and no it wont be nerfed into the ground
+--------------------
+PLANS - Plans to add deep sea fish such as sword fish, shark, sting rays, etc.. to deap sea zones
+PLANS - Plans to add "trash" Such as plastic, bottle, boot, dildo, panties, etc... to water zones as catchables...yes u can sell or keep them u dirty animals
+PLANS - Plans to add jewelry to catch and yes they will be sellable to fishing npc or a pawnshop or select stores
+--------------------
+*NOTE* - The great fishing schizim will continue to haunt me till the end of days
